@@ -1,0 +1,22 @@
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.deps.json
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\refint\Ecommerce.DTO.dll
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\ref\Ecommerce.DTO.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.deps.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\bin\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.AssemblyInfo.cs
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\refint\Ecommerce.DTO.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\Ecommerce.DTO.pdb
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.DTO\obj\Debug\net7.0\ref\Ecommerce.DTO.dll

@@ -1,0 +1,28 @@
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.deps.json
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.runtimeconfig.json
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.csproj.AssemblyReference.cache
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.AssemblyInfoInputs.cache
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.AssemblyInfo.cs
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\refint\Ecommerce.Modelo.dll
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.genruntimeconfig.cache
+C:\Users\ACER GAMING\Desktop\Ejemplo\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\ref\Ecommerce.Modelo.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.deps.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.runtimeconfig.json
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\bin\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.csproj.AssemblyReference.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.AssemblyInfoInputs.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.AssemblyInfo.cs
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\refint\Ecommerce.Modelo.dll
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.pdb
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\Ecommerce.Modelo.genruntimeconfig.cache
+C:\Users\Matias Ruiz G\OneDrive\Escritorio\ProyectoCarpeta\3\Ecommerce\Ecommerce.Modelo\obj\Debug\net7.0\ref\Ecommerce.Modelo.dll
